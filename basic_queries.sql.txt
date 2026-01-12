@@ -13,4 +13,4 @@ INSERT INTO students VALUES (2, 'Neha', 90);
 SELECT * FROM students;
 
 -- Filter data
-SELECT name, marks FROM students WHERE marks > 80;
+SELECT name, marks FROM students WHERE marks > 90;
